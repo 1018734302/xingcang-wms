@@ -1,0 +1,6 @@
+# 复制本文件为 config/local.yml，填入本机 MySQL 账号密码后即可启动。
+# config/local.yml 已被 .gitignore 忽略，不会提交到仓库。
+spring:
+  datasource:
+    username: root
+    password: your_mysql_password
