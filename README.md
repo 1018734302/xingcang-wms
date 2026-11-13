@@ -4,6 +4,27 @@
 
 后端已由 Node.js 迁移为 **Java（Spring Boot + MyBatis-Plus + MySQL）**，前端保持原生 JS 单页应用不变，由 Spring Boot 直接托管。
 
+## 界面预览
+
+| 仪表看板 | 商品管理 |
+| :---: | :---: |
+| ![仪表看板](docs/screenshots/dashboard.png) | ![商品管理](docs/screenshots/products.png) |
+
+| 入库管理 | 出库管理 |
+| :---: | :---: |
+| ![入库管理](docs/screenshots/inbound.png) | ![出库管理](docs/screenshots/outbound.png) |
+
+| 实时库存 | 库存流水 |
+| :---: | :---: |
+| ![实时库存](docs/screenshots/inventory.png) | ![库存流水](docs/screenshots/logs.png) |
+
+<details>
+<summary>登录页</summary>
+
+![登录页](docs/screenshots/login.png)
+
+</details>
+
 ## 技术栈
 
 | 层 | 技术 |
